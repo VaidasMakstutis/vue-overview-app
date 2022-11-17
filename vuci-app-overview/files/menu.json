@@ -1,0 +1,11 @@
+{
+	"information": {
+		"title": "Overview",
+		"index": 90
+	},
+	"information/system_networks": {
+		"title": "System / Networks",
+		"view": "vuci-app-overview",
+		"index": 10
+	}
+}
